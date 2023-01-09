@@ -1,6 +1,6 @@
 ### Hi there, I am Somsak Arnon 👋
 
-- 🔭 I’m currently working at **Nimble**.
+- 🔭 I’m currently working at **Thoughtworks**.
 
 ---
 
